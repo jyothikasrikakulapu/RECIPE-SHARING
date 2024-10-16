@@ -1,0 +1,29 @@
+.body{
+    background-color: aqua;
+}
+.navbar a {
+    float: center;
+    color: #23d84b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.h1{
+    size: 500px;
+}
+/*.image-right{
+    margin:0;
+    padding-top:20px;
+    padding-bottom: 300px;
+    padding-left:400px;
+    padding-right:30px;
+}*/
+.image-right {
+    float: right;
+    margin-left:300px;
+    margin-right:40px;
+
+}
+
+
